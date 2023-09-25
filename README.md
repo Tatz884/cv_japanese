@@ -64,6 +64,7 @@ Unix, Docker, GitHub, VSCode
 
 ### 【アプリ】フルスタック・チェックリスト
 [Code](https://github.com/Tatz884/Tatz884.github.io/tree/main/To-do-list)
+[Live app](https://tatz884.github.io/To-do-list/todo-list.html)
 
 概要：タスクをチェックリストに記入し、Create, Read, Delete処理ができるアプリを作成しました。
 
