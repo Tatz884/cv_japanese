@@ -5,6 +5,7 @@
 データエンジニア・アナリスト職への就職を希望していますが、他のIT職種にも興味があります。
 
 GitHub: https://github.com/Tatz884/
+
 Kaggle: https://www.kaggle.com/tatzhash
 
 
