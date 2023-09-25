@@ -14,26 +14,34 @@ Kaggle: https://www.kaggle.com/tatzhash
 MYSQL(データをロード・整形)、その他言語(MATLABでデータの前処理・統計・可視化)、Microsoft Office Access(データ入力)、
 ### 3年以上:
 R(データの前処理・統計・可視化(tidyverse))、Slack(チーム内コミュニケーション)
+
 生物学実験法（PCR, 免疫染色, 光学顕微鏡)
 
 ## 業務の成果物
 
 ### 【論文・データ分析】ハエ脳内のキノコ体神経入力パターンは感覚活動と無関係に形成される
 [Paper](https://www.cell.com/current-biology/pdf/S0960-9822(22)01204-0.pdf)
+
 概要：神経接続パターン発達についてコロンビア大学と共同研究を行いました。実験データの前処理・分析・可視化を行いました。当論文は博論の一部として収録されました。
+
 使用技術：R, MATLAB, PCR, 免疫染色, 光学顕微鏡
 
 ### 【論文・データ分析】ゼブラフィンチの発声学習の才能の探求
 [Paper](https://academicworks.cuny.edu/hc_sas_etds/359/)
+
 概要：ゼブラフィンチの歌声の個体差から、発声学習の才能にあたる要因を検討し、修論にまとめました。
+
 使用技術：MySQL, R (tidyverse, ggplot2), MATLAB
 
 
 ## ポートフォリオ作成に用いたスキル
 
 Python (PandasとSeabornを用いたデータの前処理・解析・可視化, FastAPIとSQLAlchemyを用いたバックエンド開発)
+
 Javascript（Typescriptを用いたフロントエンド開発）※フレームワークは未習
+
 HTML, CSS
+
 Unix, Docker, GitHub, VSCode
 
 
