@@ -11,7 +11,7 @@ Kaggle: https://www.kaggle.com/tatzhash
 ## 業務で使用したスキル
 
 ### 1年以上3年未満:
-MYSQL(格納されたデータをRやMATLABで読み込み)、その他言語(MATLABでデータの前処理・統計・可視化)、Microsoft Office Access(データ入力)、
+MYSQL(格納されたデータをRやMATLABで読み込み)、SQL(READ処理全般)、MATLAB(データの前処理・統計・可視化)、Microsoft Office Access(データ入力)
 ### 3年以上:
 R(データの前処理・統計・可視化(tidyverse))、Slack(チーム内コミュニケーション)
 
