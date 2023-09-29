@@ -8,6 +8,9 @@ GitHub: https://github.com/Tatz884/
 Kaggle: https://www.kaggle.com/tatzhash
 
 ## 職務経歴
+
+※現在離職中 (2023/01-)
+
 ### Caron Lab, University of Utah
 2018/08-2022/12
 
