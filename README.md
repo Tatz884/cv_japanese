@@ -13,10 +13,6 @@
 
 約7年間、脳科学および心理学の研究に従事しました。その間に膨大な実験結果を解析した経験から、データ・ITにも興味を持ちました。
 
-GitHub: https://github.com/Tatz884/
-
-Kaggle: https://www.kaggle.com/tatzhash
-
 ## 職務経歴
 
 ※現在離職中 (2023/01-)
