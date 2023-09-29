@@ -1,4 +1,14 @@
 # 経歴書
+
+## 基本情報
+
+|key|value|
+|----|----|
+|名前|林　達也|
+|GitHub|[@Tatz884](https://github.com/Tatz884/)|
+|Kaggle|[@tatzhash](https://www.kaggle.com/tatzhash) |
+
+
 ## 概要
 
 約7年間、脳科学および心理学の研究に従事しました。その間に膨大な実験結果を解析した経験から、データ・ITにも興味を持ちました。
